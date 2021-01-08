@@ -1,0 +1,2638 @@
+{
+  "data": {
+    "getCmsMenuByStoreId": {
+      "categories": [
+        {
+          "category_id": 5227,
+          "parent_id": 1,
+          "name": "Computers and Accessories",
+          "image": "Computers_Accessories_2.jpg",
+          "small_image": "https://www-konga-com-res.cloudinary.com/image/upload/w_150,f_auto,fl_lossy,dpr_auto,q_auto/assets/images/popular-categories/computers.png",
+          "is_active": true,
+          "level": 2,
+          "position": 105,
+          "description": null,
+          "cover_image": "https://www-konga-com-res.cloudinary.com/image/upload/v1599229887/v3_homepage/categories/Vector/Computers.jpg",
+          "children": [
+            {
+              "name": "Laptops",
+              "category_id": 5230,
+              "parent_id": 105,
+              "products": [
+                {
+                  "name": "Notebook -Intel Celeron-500Gb HDD - 4Gb- 15.6\" - Win 10 - Black",
+                  "sku": 4899241,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/J/R/173087_1598005483.jpg"
+                },
+                {
+                  "name": "Ibadan",
+                  "sku": 4187076,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/G/E/80994_1549281351.jpg"
+                },
+                {
+                  "name": "Zbook 14u G5 6np08up Workstation - Core i5-8350u - 8GB RAM - 256GB SSD - 14\" + Ultraslim Dock",
+                  "sku": 4899296,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/A/C/164630_1598460210.jpg"
+                },
+                {
+                  "name": "Pavilion 15 X360 - 8th Gen Touch-Screen - Intel Core i3 - 8GB RAM - 1TB HDD - Windows 10",
+                  "sku": 4899275,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/K/H/164630_1598450138.jpg"
+                },
+                {
+                  "name": "Pavilion 15 - Intel Core i5-8250u - 12GB RAM - 1TB HDD - Backlit & Numeric Keyboard - Touch - Win 10",
+                  "sku": 4899274,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/O/G/164630_1598445943.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Desktop and Monitors",
+              "category_id": 5229,
+              "parent_id": 105,
+              "products": [
+                {
+                  "name": "1.5kva Elite Pro - Ups - Bg1530",
+                  "sku": 4000198,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/C/O/55166_1532510990.jpg"
+                },
+                {
+                  "name": "200 G3 Aio Pentium All-in-one Pc 21.5 Inch 4gb Ram 1tb Freedos",
+                  "sku": 4898960,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/J/V/143107_1598456025.jpg"
+                },
+                {
+                  "name": "24-inch E2417h Monitor - Black",
+                  "sku": 4898890,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/O/Q/158301_1598435521.jpg"
+                },
+                {
+                  "name": "27 Se2717h - Led Monitor - Full Hd (1080p) - 27\" Specs",
+                  "sku": 4897302,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/U/O/147152_1598263415.jpg"
+                },
+                {
+                  "name": "V270 27\" Fhd - 1080 Dvi-d - Vga - Hdmi - Backlit - Ips Led Monitor",
+                  "sku": 4897301,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/P/M/147152_1598260308.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Computing Accessories",
+              "category_id": 5228,
+              "parent_id": 105,
+              "products": [
+                {
+                  "name": "Usb Extension Cable   1.8m (male To Female)",
+                  "sku": 4133988,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/R/W/145685_1543991168.jpg"
+                },
+                {
+                  "name": "Notebook 630 Replacement Laptop Battery",
+                  "sku": 2410354,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/N/o/Notebook-630-Replacement-Laptop-Battery-5369314_12.jpg"
+                },
+                {
+                  "name": "Cruzer Blade Flash Drive - 16gb",
+                  "sku": 4899442,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Q/R/178592_1598533873.jpg"
+                },
+                {
+                  "name": "20L Laptop Backpacks- Light Weight Travel Daypacks Men Leisure Back",
+                  "sku": 4899329,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/U/L/163805_1598541141.jpg"
+                },
+                {
+                  "name": "Usb Type C To Hdmi And Vga Adapter - Silver",
+                  "sku": 4899030,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/U/F/173311_1598471584.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Printers, Scanners &amp; Accessories",
+              "category_id": 5232,
+              "parent_id": 105,
+              "products": [
+                {
+                  "name": "216a Black Original Laserjet Toner Cartridge (w2410a)",
+                  "sku": 4898784,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/N/E/163083_1598467268.jpg"
+                },
+                {
+                  "name": "Laser 107a Mono Printer",
+                  "sku": 4898783,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/D/G/163083_1598462449.jpg"
+                },
+                {
+                  "name": "Pixma Ts704 Wireless Photo, Cd, Id Card And A4 Paper Printer",
+                  "sku": 4898782,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/J/C/163083_1598460960.jpg"
+                },
+                {
+                  "name": "Photo Paper/Ribbon",
+                  "sku": 4898524,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/K/G/51856_1598447519.jpg"
+                },
+                {
+                  "name": "Selphy Photo Paper",
+                  "sku": 4898522,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/U/V/51856_1598445885.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Wifi &amp; Networking",
+              "category_id": 5231,
+              "parent_id": 105,
+              "products": [
+                {
+                  "name": "Nano Wireless Usb Adapter",
+                  "sku": 4899246,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/E/Z/96795_1565197235.jpg"
+                },
+                {
+                  "name": "Hdmi To Dvi Adapter",
+                  "sku": 4899052,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/P/O/173311_1598476858.jpg"
+                },
+                {
+                  "name": "Vga To Dvi Adapter",
+                  "sku": 4899050,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/L/X/173311_1598475939.jpg"
+                },
+                {
+                  "name": "Type C Usb To Hdmi",
+                  "sku": 4899047,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/F/Z/173311_1598474912.jpg"
+                },
+                {
+                  "name": "Universal Mf283 4g Lte Router For All Network With Antenna",
+                  "sku": 4898875,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Z/G/174393_1598434142.jpg"
+                }
+              ]
+            },
+            {
+              "name": "PC Gaming",
+              "category_id": 7783,
+              "parent_id": 105,
+              "products": [
+                {
+                  "name": "3.5mm Audio Jack USB Gaming Headphone",
+                  "sku": 4899294,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/N/K/158083_1598448885.jpg"
+                },
+                {
+                  "name": "Pavilion Gaming Headset 400",
+                  "sku": 4891840,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/F/M/178095_1598194090.jpg"
+                },
+                {
+                  "name": "Havit Hv-h2239d 3.5mm Audio Jack Usb Gaming Headphone",
+                  "sku": 4890108,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/L/V/156279_1598104489.jpg"
+                },
+                {
+                  "name": "Hv-h2239d 3.5mm Audio Jack USB Gaming Headphone",
+                  "sku": 4886299,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/O/F/163805_1597783831.jpg"
+                },
+                {
+                  "name": "G903 Lightspeed Kabellose Gaming Maus",
+                  "sku": 4883952,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/F/K/172314_1597755902.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Software",
+              "category_id": 1192,
+              "parent_id": 105,
+              "products": []
+            },
+            {
+              "name": "Projectors",
+              "category_id": 1190,
+              "parent_id": 105,
+              "products": []
+            }
+          ]
+        },
+        {
+          "category_id": 5294,
+          "parent_id": 1,
+          "name": "Phones and Tablets",
+          "image": "Phones.jpg",
+          "small_image": "https://staging-konga-com-res.cloudinary.com/image/upload/w_150,f_auto,fl_lossy,dpr_auto,q_auto/assets/images/popular-categories/phones-and-tablets.png",
+          "is_active": true,
+          "level": 2,
+          "position": 106,
+          "description": null,
+          "cover_image": "https://www-konga-com-res.cloudinary.com/image/upload/v1599229887/v3_homepage/categories/Vector/Phones-_-Tablets.jpg",
+          "children": [
+            {
+              "name": "Mobile Phones",
+              "category_id": 5297,
+              "parent_id": 5,
+              "products": [
+                {
+                  "name": "Camon 15 Purple - 4+64 6.6 Inches-48mp- 5,000mah",
+                  "sku": 4690836,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/V/K/118566_1586436869.jpg"
+                },
+                {
+                  "name": "5130 Feature Phone - 2020 Edition - Black",
+                  "sku": 4899198,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/O/N/105854_1598549213.jpg"
+                },
+                {
+                  "name": "5130 Feature Phone - 2020 Edition - White",
+                  "sku": 4899197,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/E/J/105854_1598548539.jpg"
+                },
+                {
+                  "name": "T901 Feature Phone - 1900mAh Battery - Gold",
+                  "sku": 4899074,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/I/O/105854_1598481996.jpg"
+                },
+                {
+                  "name": "T454 Feature Phone - Dual SIM - 2.8\" - 1500mAh Battery - Gold",
+                  "sku": 4899065,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/V/O/105854_1598479916.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Mobile Phone Accessories",
+              "category_id": 5296,
+              "parent_id": 5,
+              "products": [
+                {
+                  "name": "Lagos",
+                  "sku": 4528008,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "no_selection"
+                },
+                {
+                  "name": "Silicone Case For Samsung Galaxy S8 Plus - Blue",
+                  "sku": 4899476,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/J/L/178592_1598542410.jpg"
+                },
+                {
+                  "name": "Silicone Case For Samsung Galaxy S10 - Black",
+                  "sku": 4899467,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/K/Y/178592_1598541749.jpg"
+                },
+                {
+                  "name": "Galaxy Active 2 Bluetooth Smartwatch-Silver",
+                  "sku": 4527971,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/D/S/153608_1572537358.jpg"
+                },
+                {
+                  "name": "Samsung Type C Cable ",
+                  "sku": 4523296,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/H/V/156129_1572294553.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Tablets",
+              "category_id": 5298,
+              "parent_id": 5,
+              "products": [
+                {
+                  "name": "S10 - 10.1\" Android 9 Pie - Touch Pen - 16GB - 2GB -  Quad Core - 3G Wi-fi - Sim Dual Cam - Gold",
+                  "sku": 4896768,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Y/Q/154266_1598317600.jpg"
+                },
+                {
+                  "name": "Galaxy Tab A(sm-t515)-10.1\" Screen-32gb Rom/ 2gb Ram-8mp Af/5mp-4g Lte-6150mah-black",
+                  "sku": 4896761,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/N/T/50246_1598330121.jpg"
+                },
+                {
+                  "name": "S10, 10.1\" Android 9 Pie, Touch Pen, 16gb/2gb , Quad Core, 3g, Wi-fi, Sim, Dual Cam -black",
+                  "sku": 4896757,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/R/H/154266_1598317182.jpg"
+                },
+                {
+                  "name": "iPad Pro 2020 - 11\" - WiFi + Cellular - 256GB - Space Gray",
+                  "sku": 4896244,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/P/Y/153608_1597933135.jpg"
+                },
+                {
+                  "name": "iPad Pro 11\" - 128GB - WiFi + 4G LTE - 2020 - Silver",
+                  "sku": 4895829,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/V/L/153608_1597935365.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Tablet Accessories",
+              "category_id": 7582,
+              "parent_id": 5,
+              "products": [
+                {
+                  "name": "Galaxy Tab A 10.1 2019 Official Keyboard Case",
+                  "sku": 4899269,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Z/V/158083_1598445610.jpg"
+                },
+                {
+                  "name": "2019 Keyboard Flip Pouch Cover T860 T865 For Galaxy Tab S6 - 10.5\"",
+                  "sku": 4899268,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/A/S/158083_1598444772.jpg"
+                },
+                {
+                  "name": "10.5\" Flip Cover 2019 Keyboard Leather Case For Samsung Galaxy Tab S5e",
+                  "sku": 4899265,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/C/Q/158083_1598444288.jpg"
+                },
+                {
+                  "name": "2019 Super Slim Wireless Bluetooth Keyboard Flip Case For Samsung Galaxy Tab A 10.1",
+                  "sku": 4899263,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/K/Q/158083_1598438070.jpg"
+                },
+                {
+                  "name": "2019 Super Slim Wireless Bluetooth Keyboard Flip Case For Samsung Galaxy Tab A 9.7",
+                  "sku": 4899261,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/J/U/158083_1598437963.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Shop By Price",
+              "category_id": 5294,
+              "parent_id": 5,
+              "products": [
+                {
+                  "name": "Lagos",
+                  "sku": 4528008,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "no_selection"
+                },
+                {
+                  "name": "Silicone Case For Samsung Galaxy S8 Plus - Blue",
+                  "sku": 4899476,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/J/L/178592_1598542410.jpg"
+                },
+                {
+                  "name": "Silicone Case For Samsung Galaxy S10 - Black",
+                  "sku": 4899467,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/K/Y/178592_1598541749.jpg"
+                },
+                {
+                  "name": "S10 - 10.1\" Android 9 Pie - Touch Pen - 16GB - 2GB -  Quad Core - 3G Wi-fi - Sim Dual Cam - Gold",
+                  "sku": 4896768,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Y/Q/154266_1598317600.jpg"
+                },
+                {
+                  "name": "Galaxy Tab A(sm-t515)-10.1\" Screen-32gb Rom/ 2gb Ram-8mp Af/5mp-4g Lte-6150mah-black",
+                  "sku": 4896761,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/N/T/50246_1598330121.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category_id": 5261,
+          "parent_id": 1,
+          "name": "Electronics",
+          "image": "HomeEnt.jpg",
+          "small_image": "https://www-konga-com-res.cloudinary.com/image/upload/w_150,f_auto,fl_lossy,dpr_auto,q_auto/assets/images/popular-categories/electronics.png",
+          "is_active": true,
+          "level": 2,
+          "position": 107,
+          "description": null,
+          "cover_image": "https://www-konga-com-res.cloudinary.com/image/upload/v1599229887/v3_homepage/categories/Vector/Electronics.jpg",
+          "children": [
+            {
+              "name": "Televisions",
+              "category_id": 5266,
+              "parent_id": 131,
+              "products": [
+                {
+                  "name": "65'' Smart 4k Tv",
+                  "sku": 4898462,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/G/F/97954_1598506949.jpg"
+                },
+                {
+                  "name": "50'' Smart 4k Tv",
+                  "sku": 4898460,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Z/S/97954_1598506088.jpg"
+                },
+                {
+                  "name": "55''  4k  Curved Smart Tv",
+                  "sku": 4898458,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/O/T/97954_1598505581.jpg"
+                },
+                {
+                  "name": "55'' 4k Smart Tv",
+                  "sku": 4898457,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/J/P/97954_1598504954.jpg"
+                },
+                {
+                  "name": "65'' Smart  Curved 4k Uled Tv",
+                  "sku": 4898455,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/C/B/97954_1598503508.jpg"
+                }
+              ]
+            },
+            {
+              "name": "DVD Players and Recorders",
+              "category_id": 5265,
+              "parent_id": 131,
+              "products": [
+                {
+                  "name": " Dvd Player With Hd Upscaling Dvp-sr760hp With Hdmi",
+                  "sku": 4898746,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/X/H/173297_1598524604.jpg"
+                },
+                {
+                  "name": "Dvd Player",
+                  "sku": 4898066,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/N/S/158379_1598518264.jpg"
+                },
+                {
+                  "name": "Full Hd Dvd Player With Hdmi - DP542",
+                  "sku": 4893945,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/O/U/63606_1598397221.jpg"
+                },
+                {
+                  "name": "Dvd Player Dv 878d - Black",
+                  "sku": 4890715,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/P/X/177736_1598273487.jpg"
+                },
+                {
+                  "name": "Dvd Player - Black",
+                  "sku": 4890714,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/O/M/177736_1598273661.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Cameras",
+              "category_id": 5264,
+              "parent_id": 131,
+              "products": [
+                {
+                  "name": "Tripod 3110 Tripod Stand Holder + Bluetooth Remote Shutter + Lapel Mic",
+                  "sku": 4898929,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/L/C/2595_1598371716.jpg"
+                },
+                {
+                  "name": "30cm Photography Softbox Photo Studio Lighting Box + 2 Ring Led Light + 6 Backgrounds",
+                  "sku": 4898499,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/O/P/70742_1598374924.jpg"
+                },
+                {
+                  "name": "Hero 6 Black Waterproof Action Camera",
+                  "sku": 4898157,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/X/Y/140853_1598455695.jpg"
+                },
+                {
+                  "name": "Coolpix A100 Digital Camera",
+                  "sku": 4898145,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/V/D/140853_1598451549.jpg"
+                },
+                {
+                  "name": "Legria Hf R606",
+                  "sku": 4898142,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/H/X/140853_1598451128.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Accessories",
+              "category_id": 5262,
+              "parent_id": 131,
+              "products": [
+                {
+                  "name": "Abuja",
+                  "sku": 4899494,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "no_selection"
+                },
+                {
+                  "name": "Oraimo Necklace Sport Wireless Headphone",
+                  "sku": 4899093,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Y/X/172622_1598506882.jpg"
+                },
+                {
+                  "name": "Android Tv Box X96 Mini",
+                  "sku": 4899165,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/G/M/117021_1598540542.jpg"
+                },
+                {
+                  "name": "Android Tv Box",
+                  "sku": 4899157,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/S/B/117021_1598536954.jpg"
+                },
+                {
+                  "name": "Mx9 Android Tv Box",
+                  "sku": 4899156,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/A/A/117021_1598537951.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Home Theatres &amp; Audio Systems",
+              "category_id": 5263,
+              "parent_id": 131,
+              "products": [
+                {
+                  "name": "M13 Portable Wireless Speaker",
+                  "sku": 4527874,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/A/B/93984_1572555941.jpg"
+                },
+                {
+                  "name": "Portharcourt",
+                  "sku": 4527459,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "no_selection"
+                },
+                {
+                  "name": "Home Theatre System And Dvd Player Dj-503",
+                  "sku": 4899171,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/U/F/177757_1598542464.jpg"
+                },
+                {
+                  "name": "Djack Powerful 3.1 Bluetooth Home Theatre Dj-303",
+                  "sku": 4527659,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/I/X/147906_1572693519.jpg"
+                },
+                {
+                  "name": " Home Theater System - S2875",
+                  "sku": 4899481,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/I/E/138884_1598535141.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Games and Consoles",
+              "category_id": 1683,
+              "parent_id": 131,
+              "products": [
+                {
+                  "name": "Fifa World Cup: 2010 Wii Pal",
+                  "sku": 4527537,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/X/B/123745_1572534379.jpg"
+                },
+                {
+                  "name": "Splitseconds",
+                  "sku": 4899239,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/M/R/176775_1598529358.jpg"
+                },
+                {
+                  "name": "Dual Usb With Vibration Game Pad For Pc - Hv-g61.",
+                  "sku": 4898667,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/O/S/174805_1598529912.jpg"
+                },
+                {
+                  "name": "Sony Ps4 Dualshock 4 Wireless Controller",
+                  "sku": 4898650,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/L/D/174805_1598528867.jpg"
+                },
+                {
+                  "name": "Ps4 Carry Bag",
+                  "sku": 4898645,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/H/H/174805_1598528094.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Electronics Bundles",
+              "category_id": 5356,
+              "parent_id": 131,
+              "products": [
+                {
+                  "name": "Electric Hand Blower",
+                  "sku": 4842565,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/B/Y/176828_1596117905.jpg"
+                },
+                {
+                  "name": "5x20mm Assorted Glass Fuses - 100 Pieces",
+                  "sku": 4833562,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/V/U/163193_1595711703.jpg"
+                },
+                {
+                  "name": "Multipurpose Portable Solar Light - Radio Phone Charger",
+                  "sku": 4549370,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/F/B/120734_1573921250.jpg"
+                },
+                {
+                  "name": "Ns-1533ls Solar Energy Radio With Colored Box Fm/am/sw/usb/tf",
+                  "sku": 4543280,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/H/E/120659_1573155186.jpg"
+                },
+                {
+                  "name": "LED Solar Flood Light",
+                  "sku": 4494009,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/R/F/143205_1570174372.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category_id": 1259,
+          "parent_id": 1,
+          "name": "Konga Fashion",
+          "image": "Fashion1.jpg",
+          "small_image": "https://www-konga-com-res.cloudinary.com/image/upload/w_150,f_auto,fl_lossy,dpr_auto,q_auto/assets/images/popular-categories/fashion.png",
+          "is_active": true,
+          "level": 2,
+          "position": 108,
+          "description": null,
+          "cover_image": "https://www-konga-com-res.cloudinary.com/image/upload/v1599229887/v3_homepage/categories/Vector/Fashion.jpg",
+          "children": [
+            {
+              "name": "Women&#039;s Wear ",
+              "category_id": 1304,
+              "parent_id": 297,
+              "products": [
+                {
+                  "name": "Double Control Waist Trainer Corset And Body Shaper ",
+                  "sku": 4898739,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/L/S/176883_1598492424.jpg"
+                },
+                {
+                  "name": "Diva Polo Shirt",
+                  "sku": 4191303,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/C/T/149802_1549984143.jpg"
+                },
+                {
+                  "name": "Women Latex Rubber Waist Trainer",
+                  "sku": 1962504,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/W/o/Women-Latex-Rubber-Waist-Trainer-3529097_9.jpg"
+                },
+                {
+                  "name": "Ladies Skater Skirt - Green",
+                  "sku": 4898800,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/T/Q/109878_1598536283.jpg"
+                },
+                {
+                  "name": "Plus Size Mesh Back Sport Bra Top - Black",
+                  "sku": 4898779,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Q/R/140909_1598453970.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Women&#039;s Shoes",
+              "category_id": 1525,
+              "parent_id": 297,
+              "products": [
+                {
+                  "name": "Ladies Breathable Sneaker Black",
+                  "sku": 4899110,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/P/V/163801_1598511789.jpg"
+                },
+                {
+                  "name": "Ladies' Floral Detail Slippers - Black Multicolour",
+                  "sku": 4899379,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/T/X/172376_1598293646.jpg"
+                },
+                {
+                  "name": "Tory Burch Leather Slippers",
+                  "sku": 4898928,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/M/U/158833_1598448560.jpg"
+                },
+                {
+                  "name": "Flat Shoe Animal Skin",
+                  "sku": 4898539,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/C/A/5723_1598433898.jpg"
+                },
+                {
+                  "name": "Flat Shoe With Bow Tie - Blue",
+                  "sku": 4898534,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/V/R/5723_1598433358.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Women&#039;s Accessories",
+              "category_id": 1524,
+              "parent_id": 297,
+              "products": [
+                {
+                  "name": "Card Holder- Pink",
+                  "sku": 4899113,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Q/B/163801_1598512433.jpg"
+                },
+                {
+                  "name": "Card Holder- Black",
+                  "sku": 4899114,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Q/I/163801_1598512735.jpg"
+                },
+                {
+                  "name": "Mini Shoulder Bag",
+                  "sku": 4899075,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/J/A/178608_1598481500.jpg"
+                },
+                {
+                  "name": "Fashion Purse",
+                  "sku": 4899073,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/X/M/178608_1598481225.jpg"
+                },
+                {
+                  "name": "Mini Purse",
+                  "sku": 4899072,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/R/W/178608_1598481064.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Men&#039;s Wear ",
+              "category_id": 1294,
+              "parent_id": 297,
+              "products": [
+                {
+                  "name": "Pastor's White Men Suit",
+                  "sku": 4898726,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/S/C/174055_1598456423.jpg"
+                },
+                {
+                  "name": "Men's Fitted Denim Long-sleeve Shirt",
+                  "sku": 4887272,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Z/L/51950_1597929171.jpg"
+                },
+                {
+                  "name": "5 In 1 Set Of Long Sleeve Plain Shirt",
+                  "sku": 4898994,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/U/V/116636_1598463842.jpg"
+                },
+                {
+                  "name": "4 In 1 Men's Fitted Long Sleeve Shirt",
+                  "sku": 4899016,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/O/F/116636_1598465703.jpg"
+                },
+                {
+                  "name": "Everyone Has A Story To Tell Print T-Shirt",
+                  "sku": 4899215,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/G/Z/152912_1598475134.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Men&#039;s Shoes",
+              "category_id": 1527,
+              "parent_id": 297,
+              "products": [
+                {
+                  "name": "Men's Flexible Sneakers - Black ",
+                  "sku": 4881599,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/F/U/57413_1597178625.jpg"
+                },
+                {
+                  "name": "Classic Palm Slippers",
+                  "sku": 4899312,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/J/J/177588_1598236674.jpg"
+                },
+                {
+                  "name": "Fancy palm slippers",
+                  "sku": 4899293,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/D/C/177588_1598235145.jpg"
+                },
+                {
+                  "name": "3 In 1 Shine Liquid Polish : White, Brown And Neutral",
+                  "sku": 4899203,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/A/Q/152912_1598463752.jpg"
+                },
+                {
+                  "name": "Multicolor Fabric-style Sneakers Shoes",
+                  "sku": 4899194,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/N/T/144059_1598546580.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Men&#039;s Accessories",
+              "category_id": 1526,
+              "parent_id": 297,
+              "products": [
+                {
+                  "name": "Knot Tie Strapless Unisex Baseball Cap - Black ",
+                  "sku": 4899365,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/W/E/61262_1598459939.jpg"
+                },
+                {
+                  "name": "Knot Tie Strapless Unisex Baseball Cap- White ",
+                  "sku": 4899364,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/I/H/61262_1598459658.jpg"
+                },
+                {
+                  "name": "Plain Face Cap - Black",
+                  "sku": 4899041,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/H/H/172622_1598472594.jpg"
+                },
+                {
+                  "name": "3 Packs Of Unisex Dope Face Cap - Multicolor",
+                  "sku": 4899025,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/L/S/172622_1598470966.jpg"
+                },
+                {
+                  "name": "Iced Stone Bracelet",
+                  "sku": 4898952,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Y/G/108628_1598453498.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Watches",
+              "category_id": 976,
+              "parent_id": 297,
+              "products": [
+                {
+                  "name": "Keep Moving Men's Black Wrist Watch With Box",
+                  "sku": 4898796,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/O/J/174522_1598536672.jpg"
+                },
+                {
+                  "name": "Studded Ladies Wrist Watch With Beads.",
+                  "sku": 4898791,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/E/D/174522_1598538054.jpg"
+                },
+                {
+                  "name": "Quartz Leather Watch - Silver",
+                  "sku": 4898452,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/J/T/168159_1598474718.jpg"
+                },
+                {
+                  "name": "Men's Stainless Steel Band Analog Quartz Wrist Watch",
+                  "sku": 4898442,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/P/O/176386_1598475295.jpg"
+                },
+                {
+                  "name": "Men's Stainless Steel Band Analog Quartz Wrist Watch",
+                  "sku": 4898438,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/G/Y/176386_1598478577.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Fashion Bundles",
+              "category_id": 6141,
+              "parent_id": 297,
+              "products": [
+                {
+                  "name": "12sets Underwears Of Boxers And Singlets - Multicolour",
+                  "sku": 4898681,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/C/C/176883_1598454505.jpg"
+                },
+                {
+                  "name": "Gold Cuban Necklace And Gold Cross Pendant",
+                  "sku": 4895937,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/D/Z/140079_1598369766.jpg"
+                },
+                {
+                  "name": "St.khalif 2 In 1 Tie And Dyed Hoodie - Bleach And Red",
+                  "sku": 4887045,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/B/Z/175182_1597938440.jpg"
+                },
+                {
+                  "name": "2 Sided Dress Shape Jewelry Organizer",
+                  "sku": 4883250,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/T/M/97485_1581170306.jpg"
+                },
+                {
+                  "name": "Socks - Pack Of 4 - Multicoloured",
+                  "sku": 4882671,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/D/B/118566_1597747724.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Style Finder for Women",
+              "category_id": 2759,
+              "parent_id": 297,
+              "products": [
+                {
+                  "name": "Pacomena Women's Open Toe Court Shoe - Brown",
+                  "sku": 3801695,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/P/a/Pacomena-Women-s-Open-Toe-Court-Shoe---Brown-7989955.jpg"
+                },
+                {
+                  "name": "Court Shoe Patent Shoe - Wine",
+                  "sku": 3801691,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/C/o/Court-Shoe-Patent-Shoe---Wine-7990048.jpg"
+                },
+                {
+                  "name": "Women's Pointed Toe Court Shoe",
+                  "sku": 3795262,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/W/o/Women-s-Pointed-Toe-Court-Shoe-7958885.jpg"
+                },
+                {
+                  "name": "Ladies Leather Ballet Flat Shoes - Black",
+                  "sku": 3755209,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/L/a/Ladies-Leather-Ballet-Flat-Shoes---Black-7923349_1.jpg"
+                },
+                {
+                  "name": "Slimming Suit Shapewear for Ladies - Black",
+                  "sku": 3706587,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/S/l/Slimming-Suit-Shapewear-for-Ladies---Black-7788261.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Style Finder for Men",
+              "category_id": 1328,
+              "parent_id": 297,
+              "products": [
+                {
+                  "name": "Men's Formal Trousers - Dark Grey",
+                  "sku": 3811480,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/M/e/Men-s-Formal-Trousers---Dark-Grey-8037664_1.jpg"
+                },
+                {
+                  "name": "Men’s Leather Slip On Shoe With Buckle - Black - MSH-4406",
+                  "sku": 3807774,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/M/e/Men-s-Leather-Slip-On-Shoe-With-Buckle---Black---MSH-4406-8007035.jpg"
+                },
+                {
+                  "name": "Men’s Leather Slip On Shoe With Buckle - Brown - MSH-4364",
+                  "sku": 3807767,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/M/e/Men-s-Leather-Slip-On-Shoe-With-Buckle---Brown---MSH-4364-8006947.jpg"
+                },
+                {
+                  "name": "Snake Skin Detailed Leather Shoe With Fancy Buckle - Black - MSH-4376",
+                  "sku": 3807760,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/S/n/Snake-Skin-Detailed-Leather-Shoe-With-Fancy-Buckle---Black---MSH-4376-8053450_1.jpg"
+                },
+                {
+                  "name": "Men’s Formal Detailed Lace Up Shoe - Black - MSH-4382",
+                  "sku": 3807748,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/M/e/Men-s-Formal-Detailed-Lace-Up-Shoe---Black---MSH-4382-8006839.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Plus Size",
+              "category_id": 5684,
+              "parent_id": 297,
+              "products": [
+                {
+                  "name": "Cross-border Hot Women's Black And White Striped Dress",
+                  "sku": 4889278,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/S/O/132071_1597929299.jpg"
+                },
+                {
+                  "name": "Plus Size Chiffon Printed Tunic Blouse",
+                  "sku": 4878421,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/U/R/2021_1597654611.jpg"
+                },
+                {
+                  "name": "Split Sleeve Bubble Hem Top",
+                  "sku": 4878173,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/B/D/153517_1597582967.jpg"
+                },
+                {
+                  "name": "Together Black Crinkle Print Blouse",
+                  "sku": 4878039,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/C/V/153517_1597581284.jpg"
+                },
+                {
+                  "name": "Purple Sleeveless Blouse",
+                  "sku": 4876809,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/J/N/55979_1597539411.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Under 5K Shop",
+              "category_id": 3017,
+              "parent_id": 297,
+              "products": [
+                {
+                  "name": "African Power Fist Print T-Shirt",
+                  "sku": 4860426,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/E/D/88072_1596703881.jpg"
+                },
+                {
+                  "name": "Independent Crew Neck",
+                  "sku": 4234500,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/B/G/58831_1552592410.jpg"
+                },
+                {
+                  "name": "Ladies Satchel Bag",
+                  "sku": 4219556,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/F/T/86343_1551790538.jpg"
+                },
+                {
+                  "name": "Women's Satchel Bag",
+                  "sku": 4219555,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/P/V/86343_1551790126.jpg"
+                },
+                {
+                  "name": "Unlimited Original Flavor Unisex Crew Neck Tshirt",
+                  "sku": 4219326,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/G/W/58831_1551781664.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Wedding Shop",
+              "category_id": 5036,
+              "parent_id": 297,
+              "products": [
+                {
+                  "name": "Ladies Gold  Resizable Butterfly Wedding Ring",
+                  "sku": 4898879,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/V/U/152791_1598412748.jpg"
+                },
+                {
+                  "name": "Wedding Ring Set And Ring Box",
+                  "sku": 4893882,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/X/R/154351_1598452661.jpg"
+                },
+                {
+                  "name": "Floral Crown",
+                  "sku": 4882449,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/L/Z/85126_1597704053.jpg"
+                },
+                {
+                  "name": "2Pcs Plain Wedding Rings Engagement - Gold",
+                  "sku": 4874083,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/I/G/81828_1597435636.jpg"
+                },
+                {
+                  "name": "Classy Light Cream Color Wedding Gown-almost White/off White",
+                  "sku": 4870171,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/G/A/176198_1596890363.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Textiles",
+              "category_id": 1990,
+              "parent_id": 297,
+              "products": [
+                {
+                  "name": "Orange Lace Fabric - 5 Yards",
+                  "sku": 4893936,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Q/M/123329_1598175997.jpg"
+                },
+                {
+                  "name": "6 Yards Brown Ankara Fabric & Kit Power Bank",
+                  "sku": 4893185,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/K/G/176360_1597755225.jpg"
+                },
+                {
+                  "name": "6yards Kente Fabric & E18 Foldable Hand Fan",
+                  "sku": 4893182,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/H/S/176360_1597754813.jpg"
+                },
+                {
+                  "name": "Multi Colour Ankara Fabric - 6yards",
+                  "sku": 4893144,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/H/Y/176360_1598261126.jpg"
+                },
+                {
+                  "name": "Ankara  Fabric - 6 Yards - Brown Multicolor",
+                  "sku": 4890969,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Q/W/176360_1598261355.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category_id": 602,
+          "parent_id": 1,
+          "name": "Home and Kitchen",
+          "image": "HK.jpg",
+          "small_image": "https://www-konga-com-res.cloudinary.com/image/upload/w_150,f_auto,fl_lossy,dpr_auto,q_auto/v1538158457/assets/images/popular-categories/home-kitchen.png",
+          "is_active": true,
+          "level": 2,
+          "position": 148,
+          "description": null,
+          "cover_image": "https://www-konga-com-res.cloudinary.com/image/upload/v1599229888/v3_homepage/categories/Vector/Home-_-Kitchen.jpg",
+          "children": [
+            {
+              "name": "Large Appliances ",
+              "category_id": 5480,
+              "parent_id": 145,
+              "products": [
+                {
+                  "name": "1.5hp Split Air Condition - PV-12XA21",
+                  "sku": 4899240,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/I/A/71418_1598346858.jpg"
+                },
+                {
+                  "name": "16\" Orbit Wall Fan-",
+                  "sku": 4899199,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/E/H/173874_1598550205.jpg"
+                },
+                {
+                  "name": "18'' Rechargeable Fan + Remote Control",
+                  "sku": 4899195,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/G/Z/177757_1598547552.jpg"
+                },
+                {
+                  "name": "Fan With Music Player And Bluetooth Compatibility Tf-5000m",
+                  "sku": 4899185,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Z/G/177757_1598545911.jpg"
+                },
+                {
+                  "name": "Table Top Size Mini Water Dispenser",
+                  "sku": 4899138,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/S/A/67215_1598516816.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Small Appliances ",
+              "category_id": 5481,
+              "parent_id": 145,
+              "products": [
+                {
+                  "name": "Mwo 2520 25 Litre Microwave Oven - Black",
+                  "sku": 4899177,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/C/L/177757_1598542967.jpg"
+                },
+                {
+                  "name": "2 Slice Sandwich Maker - 750watts",
+                  "sku": 4899334,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Y/I/144940_1591864314.jpg"
+                },
+                {
+                  "name": "Mixer Grinder Viva - 1000watts",
+                  "sku": 4899333,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/F/Y/144940_1598517678.jpg"
+                },
+                {
+                  "name": "Grinder Mixer - 1000watts",
+                  "sku": 4899332,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/B/B/144940_1598516818.jpg"
+                },
+                {
+                  "name": "Table Gas Cooker 3 Hob Burner Glass Top",
+                  "sku": 4899201,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/S/E/177809_1598454910.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Home Furnishings",
+              "category_id": 2993,
+              "parent_id": 145,
+              "products": [
+                {
+                  "name": "Aluminium Venetian Blinds W-5ft x 5ft- Brown",
+                  "sku": 1796762,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/A/l/Aluminium-Venetian-Blinds-W-5ft-x-5ft--Brown-5891611.jpg"
+                },
+                {
+                  "name": "Remote Control Organizer- Blue",
+                  "sku": 4899325,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/F/V/170516_1598544993.jpg"
+                },
+                {
+                  "name": "Foldable Fabric Storage Box - Green",
+                  "sku": 4899319,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/I/Q/170516_1598434729.jpg"
+                },
+                {
+                  "name": "Foldable Fabric Storage Box - Yellow",
+                  "sku": 4899317,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/L/U/170516_1598434416.jpg"
+                },
+                {
+                  "name": "Foldable Fabric Storage Box - 4pcs",
+                  "sku": 4899316,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/B/D/170516_1598434067.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Top Brands",
+              "category_id": 602,
+              "parent_id": 145,
+              "products": [
+                {
+                  "name": "ok plast Scoop Colander Filter - Blue",
+                  "sku": 4899361,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/E/G/177643_1598472527.jpg"
+                },
+                {
+                  "name": "Mwo 2520 25 Litre Microwave Oven - Black",
+                  "sku": 4899177,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/C/L/177757_1598542967.jpg"
+                },
+                {
+                  "name": "Disposable Pastry Bag 50 Pieces 14 Inch Thick Icing Piping Decorating Pastry Bags",
+                  "sku": 4898966,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/E/D/2595_1598458065.jpg"
+                },
+                {
+                  "name": "Fir Upholstered Bed",
+                  "sku": 4899345,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Y/W/125491_1598476075.jpg"
+                },
+                {
+                  "name": "1 Litre Crystal Wine Decanter",
+                  "sku": 4528004,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/U/H/53318_1572635820.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Kitchen &amp; Dining",
+              "category_id": 2995,
+              "parent_id": 145,
+              "products": [
+                {
+                  "name": "ok plast Scoop Colander Filter - Blue",
+                  "sku": 4899361,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/E/G/177643_1598472527.jpg"
+                },
+                {
+                  "name": "Disposable Pastry Bag 50 Pieces 14 Inch Thick Icing Piping Decorating Pastry Bags",
+                  "sku": 4898966,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/E/D/2595_1598458065.jpg"
+                },
+                {
+                  "name": "1 Litre Crystal Wine Decanter",
+                  "sku": 4528004,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/U/H/53318_1572635820.jpg"
+                },
+                {
+                  "name": "Ok Plast Scoop Spoon-shaped Colander - 6 Pieces",
+                  "sku": 4899360,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/M/I/177643_1598473861.jpg"
+                },
+                {
+                  "name": "ok plast Bottles Carrier - Grey",
+                  "sku": 4899358,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/L/L/177643_1598470070.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Furniture",
+              "category_id": 6081,
+              "parent_id": 145,
+              "products": [
+                {
+                  "name": "Fir Upholstered Bed",
+                  "sku": 4899345,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Y/W/125491_1598476075.jpg"
+                },
+                {
+                  "name": "Reversible L-Shape Executive Desk",
+                  "sku": 4899399,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/G/O/172565_1598526356.jpg"
+                },
+                {
+                  "name": "Mac Munch Upholstered Bed",
+                  "sku": 4899164,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/M/A/96770_1598539989.jpg"
+                },
+                {
+                  "name": "Member's Mark Agio Heritage Chaise Lounge Chair",
+                  "sku": 4898987,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/B/N/3516_1598463990.jpg"
+                },
+                {
+                  "name": "Lifetime Products 4 Ft. Commercial Adjustable Folding Table",
+                  "sku": 4898948,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/J/K/3516_1598451246.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Others",
+              "category_id": 5915,
+              "parent_id": 145,
+              "products": [
+                {
+                  "name": "Gas Regulator With Meter And Leak Detector-silver",
+                  "sku": 4899022,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/A/G/116636_1598470062.jpg"
+                },
+                {
+                  "name": "American Tourister Go 2 Softside 19\" Carry-on, Green",
+                  "sku": 4898972,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/O/W/3516_1598459193.jpg"
+                },
+                {
+                  "name": "American Tourister Go 2 Softside 19\" Carry-on Mineral Grey",
+                  "sku": 4898971,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/G/F/3516_1598462041.jpg"
+                },
+                {
+                  "name": "Tobi Travel Steamer Iron",
+                  "sku": 4897751,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Z/Q/176387_1598444795.jpg"
+                },
+                {
+                  "name": "Hand Held Steam Iron",
+                  "sku": 4897387,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/L/T/93702_1598297807.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Accessories for Small &amp; Large Appliances",
+              "category_id": 6080,
+              "parent_id": 145,
+              "products": [
+                {
+                  "name": "Replacement Remote Control For Aux Ac Remote Control",
+                  "sku": 4891472,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/P/Y/173311_1597958979.jpg"
+                },
+                {
+                  "name": "Adjustable Moveable Base Stand",
+                  "sku": 4889998,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/U/P/172060_1597950832.jpg"
+                },
+                {
+                  "name": "Bagganas Knob - Brass - 13mm",
+                  "sku": 4888863,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Z/H/112841_1598041501.jpg"
+                },
+                {
+                  "name": "Electric Fan Mesh Safety Cover Anti-pinch Net",
+                  "sku": 4888517,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/V/A/76588_1597965436.jpg"
+                },
+                {
+                  "name": "AC Wall Bracket",
+                  "sku": 4886598,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/R/K/169046_1597786293.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Home &amp; Kitchen Bundles",
+              "category_id": 5357,
+              "parent_id": 145,
+              "products": [
+                {
+                  "name": "Illuminating Kettle - 1.7l & Bread Toaster",
+                  "sku": 4898660,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/J/H/178631_1598436229.jpg"
+                },
+                {
+                  "name": "Wooden Spoon Set + Ewedu Broom + Non-stick Spoon Set",
+                  "sku": 4898408,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/U/Y/114625_1598379942.jpg"
+                },
+                {
+                  "name": "Knife Set & Non-Stick Spoon",
+                  "sku": 4897662,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/F/P/172060_1598378396.jpg"
+                },
+                {
+                  "name": "Wooden Spoons Set & Grater Bundle",
+                  "sku": 4897646,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/T/Q/172060_1598375655.jpg"
+                },
+                {
+                  "name": "Pot Set + Frying Pan With Free Gift",
+                  "sku": 4895807,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Y/J/80695_1598352456.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Appliances With Special Offers",
+              "category_id": 1284,
+              "parent_id": 145,
+              "products": [
+                {
+                  "name": "Toaster HT600",
+                  "sku": 2712819,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/T/o/Toaster-HT600-7858920_1.jpg"
+                },
+                {
+                  "name": "Toaster HT550",
+                  "sku": 2706237,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/T/o/Toaster-HT550-7858932_2.jpg"
+                },
+                {
+                  "name": "Rice Cooker - RC417",
+                  "sku": 2657513,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/R/i/Rice-Cooker---RC417-7859008_2.jpg"
+                },
+                {
+                  "name": "Juice Extractor JE680",
+                  "sku": 2646124,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/J/u/Juice-Extractor-JE680-7859012_2.jpg"
+                },
+                {
+                  "name": "24D2710 24\" LED TV",
+                  "sku": 2596701,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/2/4/24D2710-24-LED-TV-5896542_2.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category_id": 8,
+          "parent_id": 1,
+          "name": "Baby, Kids and Toys",
+          "image": "Babies_Kids_Toys.png",
+          "small_image": "https://www-konga-com-res.cloudinary.com/image/upload/w_150,f_auto,fl_lossy,dpr_auto,q_auto/assets/images/popular-categories/baby-kids-toys.png",
+          "is_active": true,
+          "level": 2,
+          "position": 149,
+          "description": null,
+          "cover_image": "https://www-konga-com-res.cloudinary.com/image/upload/v1599229887/v3_homepage/categories/Vector/BKT.jpg",
+          "children": [
+            {
+              "name": "Fashion for Girls",
+              "category_id": 2857,
+              "parent_id": 556,
+              "products": [
+                {
+                  "name": "Girl's Masti - Flower And Red Top Dress",
+                  "sku": 4898632,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Y/R/5723_1598531278.jpg"
+                },
+                {
+                  "name": "Girl's Top, Jeans And Leggings - Yellow",
+                  "sku": 4898626,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/R/F/5723_1598530648.jpg"
+                },
+                {
+                  "name": "Girls Top, Jeans And Leggings - Pink",
+                  "sku": 4898619,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/J/Y/5723_1598530194.jpg"
+                },
+                {
+                  "name": "Girl's Jean Jacket On Red Top With 3 Quarter Trouser Set",
+                  "sku": 4898617,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/A/D/5723_1598529687.jpg"
+                },
+                {
+                  "name": "Lolipoli Baby Short And Top",
+                  "sku": 4898614,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/E/W/5723_1598527902.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Fashion for Boys",
+              "category_id": 2856,
+              "parent_id": 556,
+              "products": [
+                {
+                  "name": "Boy's Spider Man Shirt And Jeans Short - Red",
+                  "sku": 4898548,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/M/J/5723_1598438339.jpg"
+                },
+                {
+                  "name": "Mickey Mouse Boys Assorted Briefs - Multicolour-5 Pieces",
+                  "sku": 4898132,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/N/X/175732_1598367929.jpg"
+                },
+                {
+                  "name": "Boys Pyjamas With Slippers - 2 In 1",
+                  "sku": 4898127,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Q/B/175732_1598366961.jpg"
+                },
+                {
+                  "name": "Cotton Kids Boys Pyjamas Set",
+                  "sku": 4898094,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/A/E/175732_1598291075.jpg"
+                },
+                {
+                  "name": "Boys Pyjamas",
+                  "sku": 4898085,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Q/J/175732_1598290545.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Baby Essentials",
+              "category_id": 5748,
+              "parent_id": 556,
+              "products": [
+                {
+                  "name": "Lovely Pair Of Knee Pad",
+                  "sku": 4898989,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/L/I/3422_1598464421.jpg"
+                },
+                {
+                  "name": "A Pair Of Baby Crawling Knee Pad",
+                  "sku": 4898986,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/B/R/3422_1598464107.jpg"
+                },
+                {
+                  "name": "Harmony Venture Deluxe Harnessed Car Seat",
+                  "sku": 4898904,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/C/X/86377_1598440325.jpg"
+                },
+                {
+                  "name": "Breastmilk Storage Bags - 25 Bags",
+                  "sku": 4898895,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/H/E/2799_1598438942.jpg"
+                },
+                {
+                  "name": "Baby Bathtime Gift Set",
+                  "sku": 4898892,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/F/V/2799_1598437587.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Maternity",
+              "category_id": 5086,
+              "parent_id": 556,
+              "products": [
+                {
+                  "name": "Ladies Disposable Pants - 6 Pieces",
+                  "sku": 4396127,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/D/E/158085_1563793878.jpg"
+                },
+                {
+                  "name": "Close To Nature Disposable Breast Pad - 1 Pack - 50 Pads",
+                  "sku": 4890732,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/X/N/115416_1598058078.jpg"
+                },
+                {
+                  "name": "Breastfeeding Cover With Adjustable Strap, 100% Premium Cotton",
+                  "sku": 4882705,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/B/J/177683_1597703876.jpg"
+                },
+                {
+                  "name": "Sanitary Towels - Set Of 4",
+                  "sku": 4881063,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Q/Z/171695_1597692274.jpg"
+                },
+                {
+                  "name": "Sanitary Towels - Set Of 12",
+                  "sku": 4881040,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Q/Q/171695_1597692901.jpg"
+                }
+              ]
+            },
+            {
+              "name": "School Store",
+              "category_id": 5736,
+              "parent_id": 556,
+              "products": [
+                {
+                  "name": "Car Racing School Back Pack",
+                  "sku": 4897792,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/T/E/178660_1598453198.jpg"
+                },
+                {
+                  "name": "Winnie The Pooh School Back Pack",
+                  "sku": 4897788,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/B/T/178660_1598452862.jpg"
+                },
+                {
+                  "name": "Princess School Back Pack",
+                  "sku": 4897785,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/M/X/178660_1598452377.jpg"
+                },
+                {
+                  "name": "Spider-man School Back Pack",
+                  "sku": 4897782,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/D/Y/178660_1598451961.jpg"
+                },
+                {
+                  "name": "Dora School Bag For Baby Girl",
+                  "sku": 4897779,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/N/A/178660_1598451537.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Travel &amp; Safety Gear",
+              "category_id": 2749,
+              "parent_id": 556,
+              "products": [
+                {
+                  "name": "Lovely Pair Of Knee Pad",
+                  "sku": 4898989,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/L/I/3422_1598464421.jpg"
+                },
+                {
+                  "name": "A Pair Of Baby Crawling Knee Pad",
+                  "sku": 4898986,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/B/R/3422_1598464107.jpg"
+                },
+                {
+                  "name": "Harmony Venture Deluxe Harnessed Car Seat",
+                  "sku": 4898904,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/C/X/86377_1598440325.jpg"
+                },
+                {
+                  "name": "Light 'n Comfy Elite Infant Car Seat",
+                  "sku": 4898454,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Y/J/60744_1598477046.jpg"
+                },
+                {
+                  "name": "Vive Travel System With Embrace, Hayden Dot",
+                  "sku": 4898451,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/K/O/60744_1598476079.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Diapering &amp; Daily Care",
+              "category_id": 63,
+              "parent_id": 556,
+              "products": [
+                {
+                  "name": "Baby Bathtime Gift Set",
+                  "sku": 4898892,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/F/V/2799_1598437587.jpg"
+                },
+                {
+                  "name": "One Size Washable Toddler Diaper - Flowery Red",
+                  "sku": 4898381,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/X/R/155256_1598511471.jpg"
+                },
+                {
+                  "name": "One Size Washable Diaper-toddler",
+                  "sku": 4898378,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/X/R/155256_1598511471.jpg"
+                },
+                {
+                  "name": "One Size Washable Diaper - toddler",
+                  "sku": 4898375,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/P/Q/155256_1598509325.jpg"
+                },
+                {
+                  "name": "Little Ones Head-to-toe Wash - 500ml",
+                  "sku": 4896253,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/V/D/52404_1598393535.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Kids&#039; Beddings &amp; Decor",
+              "category_id": 2676,
+              "parent_id": 556,
+              "products": [
+                {
+                  "name": "Kiddies Princess Table And Chair",
+                  "sku": 4898337,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/J/R/175712_1598452797.jpg"
+                },
+                {
+                  "name": "Kid's Study Table And Chair",
+                  "sku": 4898334,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/D/N/175712_1598452136.jpg"
+                },
+                {
+                  "name": "Baby Diaper Caddy",
+                  "sku": 4894241,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/W/L/60744_1598215099.jpg"
+                },
+                {
+                  "name": "Child Of Mine - Pack Of 5 Flannel",
+                  "sku": 4892812,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/J/W/174379_1598216877.jpg"
+                },
+                {
+                  "name": "Child Of Mine Flannel - 5 In 1 - 2 Packs",
+                  "sku": 4892810,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Y/M/174379_1598216381.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Toys &amp; Activities",
+              "category_id": 948,
+              "parent_id": 556,
+              "products": [
+                {
+                  "name": "Baby Rocker Indoor And Outdoor Plastic Kids Horse",
+                  "sku": 4899374,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/A/E/140622_1598469295.jpg"
+                },
+                {
+                  "name": "What Kids Want Mickey Keyboard With Music In Box",
+                  "sku": 4898581,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/D/D/169334_1598470192.jpg"
+                },
+                {
+                  "name": "Nickelodeon Paw Patrol Giant Puzzle (46-piece)",
+                  "sku": 4898575,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/B/S/169334_1598464481.jpg"
+                },
+                {
+                  "name": "Mickey Club House Floor Puzzle, 46-piece",
+                  "sku": 4898573,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/R/G/169334_1598463338.jpg"
+                },
+                {
+                  "name": "46-piece Miraculous Ladybug Giant Floor Puzzle",
+                  "sku": 4898571,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/E/E/169334_1598462983.jpg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "category_id": 5971,
+          "parent_id": 1,
+          "name": "Wines &amp; Other Categories",
+          "image": "Other_Categories1.jpg",
+          "small_image": "https://www-konga-com-res.cloudinary.com/image/upload/w_150,f_auto,fl_lossy,dpr_auto,q_auto/v1538156268/assets/images/popular-categories/other-categories.png",
+          "is_active": true,
+          "level": 2,
+          "position": 151,
+          "description": null,
+          "cover_image": "https://www-konga-com-res.cloudinary.com/image/upload/v1599229888/v3_homepage/categories/Vector/Wines.jpg",
+          "children": [
+            {
+              "name": "Beauty, Health &amp; Personal Care",
+              "category_id": 4,
+              "parent_id": 193,
+              "products": [
+                {
+                  "name": "Kajal Kohl Arabian Herbal Eyeliner - Natural Black ",
+                  "sku": 2738178,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/K/a/Kajal-Kohl-Arabian-Herbal-Eyeliner---Natural-Black--5752144_1.jpg"
+                },
+                {
+                  "name": "200g Natural Black Kinky Curl Human Hair 16\"",
+                  "sku": 4899489,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/T/O/152431_1598435589.jpg"
+                },
+                {
+                  "name": "300g Kinky Curl Natural Black Human Hair 12\"",
+                  "sku": 4899487,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/I/J/152431_1598435289.jpg"
+                },
+                {
+                  "name": "200g Kinky Curl Natural Black Hair 12\"",
+                  "sku": 4899485,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/N/U/152431_1598435051.jpg"
+                },
+                {
+                  "name": "200g Malaysian Straight Black 26\"",
+                  "sku": 4899483,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/N/I/152431_1598434463.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Sports and Fitness",
+              "category_id": 1220,
+              "parent_id": 193,
+              "products": [
+                {
+                  "name": "8HP Heavy Duty Premium Commercial Treadmill",
+                  "sku": 4899372,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/A/X/150758_1598371223.jpg"
+                },
+                {
+                  "name": "7hp Heavy Duty Rugged Commercial Treadmill",
+                  "sku": 4899371,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/H/C/150758_1598370737.jpg"
+                },
+                {
+                  "name": "7HP Heavy Duty Professional Commercial Treadmill",
+                  "sku": 4899370,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/A/D/150758_1598370446.jpg"
+                },
+                {
+                  "name": "German Machine 2HP Premium Treadmill Machine With Massager & Situp",
+                  "sku": 4899346,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/L/N/150758_1598369900.jpg"
+                },
+                {
+                  "name": "German Machine 2HP Professional Rugged Treadmill Machine With Massager",
+                  "sku": 4899344,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/S/V/150758_1598370277.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Books &amp; Media Library",
+              "category_id": 930,
+              "parent_id": 193,
+              "products": [
+                {
+                  "name": "The Power Of Positive Thinking",
+                  "sku": 4899336,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Y/J/152912_1598465455.jpg"
+                },
+                {
+                  "name": "Everywoman",
+                  "sku": 4899210,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/C/V/152912_1598473984.jpg"
+                },
+                {
+                  "name": "He Relational Manager:transform Your Workplace & Your Life",
+                  "sku": 4899209,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/L/F/152912_1598469514.jpg"
+                },
+                {
+                  "name": "The Jewish Phenomenon",
+                  "sku": 4899208,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/D/R/152912_1598469239.jpg"
+                },
+                {
+                  "name": "Understanding The Purpose And Power Of Men",
+                  "sku": 4899207,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/X/X/152912_1598468739.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Alcoholic Beverages",
+              "category_id": 2003,
+              "parent_id": 193,
+              "products": [
+                {
+                  "name": "Clicquot Brut - 75cl  12% acl. (Single Bottle)",
+                  "sku": 3889282,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/I/Z/1_1521560032.jpg"
+                },
+                {
+                  "name": "Spanish - 75cl   36% acl - Single Bottle",
+                  "sku": 3889468,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/U/G/_1525345526.jpg"
+                },
+                {
+                  "name": "Sky Vodka Infusions Citrus Vodka - 1 litre",
+                  "sku": 4897370,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/C/F/165884_1598282031.jpg"
+                },
+                {
+                  "name": "Riunite Lambrusco Del Emilia",
+                  "sku": 4897049,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/F/K/174434_1598280706.jpg"
+                },
+                {
+                  "name": "Action Bitters 750ml - 3 Bottles",
+                  "sku": 4896977,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/D/C/174703_1598357241.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Office &amp; School Supplies",
+              "category_id": 950,
+              "parent_id": 193,
+              "products": [
+                {
+                  "name": "Disney Minnie Mouse Spiral Notebook With Feather Pen Set For Girls (pack Of 3)",
+                  "sku": 4895046,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/N/Y/169334_1598376787.jpg"
+                },
+                {
+                  "name": "Marvel Avengers or Spiderman Spiral Notebook With Red Pen In Poly Bag. (pack Of 3)",
+                  "sku": 4895054,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/L/A/169334_1598378307.jpg"
+                },
+                {
+                  "name": "Monami White Board Marker - Pack Of 12-Red",
+                  "sku": 4883311,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/E/H/177143_1597627268.jpg"
+                },
+                {
+                  "name": "Pen Holder With Digital Clock",
+                  "sku": 4899315,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/T/Q/170516_1598433667.jpg"
+                },
+                {
+                  "name": "Customized Nylons - 50 Pieces",
+                  "sku": 4899077,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/R/J/178608_1598438793.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Generators &amp; Power Solutions",
+              "category_id": 1176,
+              "parent_id": 193,
+              "products": [
+                {
+                  "name": "5.5 Kva Inverter - Black",
+                  "sku": 4894535,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/O/K/175049_1598151926.jpg"
+                },
+                {
+                  "name": "Solaredge Se5000h Hd-wave Inverter",
+                  "sku": 4812328,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Q/K/174929_1594742939.jpg"
+                },
+                {
+                  "name": "2kw Mobile Solar Inverter With Battery Connection",
+                  "sku": 4381639,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/C/S/85040_1562417428.jpg"
+                },
+                {
+                  "name": "Ultra Slim Wall Mount Automatic Voltage AC Stabilizer - 2kva",
+                  "sku": 4899283,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Y/Y/163647_1598481358.jpg"
+                },
+                {
+                  "name": "2000va Automatic Voltage Regulator Stabilizer",
+                  "sku": 4899189,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/C/D/177757_1598546973.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Automotive",
+              "category_id": 2051,
+              "parent_id": 193,
+              "products": [
+                {
+                  "name": "5.5 Kva Inverter - Black",
+                  "sku": 4894535,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/O/K/175049_1598151926.jpg"
+                },
+                {
+                  "name": "Solaredge Se5000h Hd-wave Inverter",
+                  "sku": 4812328,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Q/K/174929_1594742939.jpg"
+                },
+                {
+                  "name": "2kw Mobile Solar Inverter With Battery Connection",
+                  "sku": 4381639,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/C/S/85040_1562417428.jpg"
+                },
+                {
+                  "name": "Ultra Slim Wall Mount Automatic Voltage AC Stabilizer - 2kva",
+                  "sku": 4899283,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Y/Y/163647_1598481358.jpg"
+                },
+                {
+                  "name": "2000va Automatic Voltage Regulator Stabilizer",
+                  "sku": 4899189,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/C/D/177757_1598546973.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Building &amp; Industrial",
+              "category_id": 5977,
+              "parent_id": 193,
+              "products": [
+                {
+                  "name": "Cctv Rg59 With Power Coaxial Cable - Pure Copper 305m",
+                  "sku": 4895227,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/E/K/159584_1598272441.jpg"
+                },
+                {
+                  "name": "Electric Faucet",
+                  "sku": 4893757,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/V/H/80695_1597940209.jpg"
+                },
+                {
+                  "name": "180 Degree Solid Door Hinges - 2 Pieces",
+                  "sku": 4893211,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Z/L/150356_1598219444.jpg"
+                },
+                {
+                  "name": "Silver Solid Door Hinges",
+                  "sku": 4893210,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/O/I/150356_1598200099.jpg"
+                },
+                {
+                  "name": "2m Stainless Steel Chrome Bathroom Shower Pipe",
+                  "sku": 4890972,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/S/I/176360_1598044192.jpg"
+                }
+              ]
+            },
+            {
+              "name": "Groceries",
+              "category_id": 581,
+              "parent_id": 193,
+              "products": [
+                {
+                  "name": "Clicquot Brut - 75cl  12% acl. (Single Bottle)",
+                  "sku": 3889282,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/I/Z/1_1521560032.jpg"
+                },
+                {
+                  "name": "Spanish - 75cl   36% acl - Single Bottle",
+                  "sku": 3889468,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/U/G/_1525345526.jpg"
+                },
+                {
+                  "name": "Jumbo Crayfish - 3 Ltrs",
+                  "sku": 4899495,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/Z/R/170770_1590922639.jpg"
+                },
+                {
+                  "name": "Corn Flakes - 550g x 2",
+                  "sku": 4899369,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/K/F/169484_1598306267.jpg"
+                },
+                {
+                  "name": "Grain Raisin And Almond Granola 500g",
+                  "sku": 4899368,
+                  "objectID": null,
+                  "image_full": null,
+                  "image_thumbnail": "/D/T/169484_1598304356.jpg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
