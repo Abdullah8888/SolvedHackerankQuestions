@@ -12,6 +12,9 @@
 		C906B80A2475FD44003817A8 /* Anonymous.swift in Sources */ = {isa = PBXBuildFile; fileRef = C906B8092475FD44003817A8 /* Anonymous.swift */; };
 		C906B80C247978D0003817A8 /* GetterAndSetter.swift in Sources */ = {isa = PBXBuildFile; fileRef = C906B80B247978D0003817A8 /* GetterAndSetter.swift */; };
 		C98FFB7F249E1B1200B1BC56 /* PractisedQuestions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C98FFB7E249E1B1200B1BC56 /* PractisedQuestions.swift */; };
+		C9AF5DAB25A91EEF001F71E4 /* RawTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9AF5DAA25A91EEF001F71E4 /* RawTest.swift */; };
+		C9AF5DAD25A92F5C001F71E4 /* LeetcodeQuestions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9AF5DAC25A92F5C001F71E4 /* LeetcodeQuestions.swift */; };
+		C9AF5DAF25AB3952001F71E4 /* CopiedCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = C9AF5DAE25AB3952001F71E4 /* CopiedCode.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -33,6 +36,9 @@
 		C906B8092475FD44003817A8 /* Anonymous.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Anonymous.swift; sourceTree = "<group>"; };
 		C906B80B247978D0003817A8 /* GetterAndSetter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GetterAndSetter.swift; sourceTree = "<group>"; };
 		C98FFB7E249E1B1200B1BC56 /* PractisedQuestions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PractisedQuestions.swift; sourceTree = "<group>"; };
+		C9AF5DAA25A91EEF001F71E4 /* RawTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RawTest.swift; sourceTree = "<group>"; };
+		C9AF5DAC25A92F5C001F71E4 /* LeetcodeQuestions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeetcodeQuestions.swift; sourceTree = "<group>"; };
+		C9AF5DAE25AB3952001F71E4 /* CopiedCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CopiedCode.swift; sourceTree = "<group>"; };
 		C9EF409A2575B94500F42B65 /* sample.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = sample.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -72,6 +78,9 @@
 				C906B80B247978D0003817A8 /* GetterAndSetter.swift */,
 				C9EF409A2575B94500F42B65 /* sample.json */,
 				C98FFB7E249E1B1200B1BC56 /* PractisedQuestions.swift */,
+				C9AF5DAA25A91EEF001F71E4 /* RawTest.swift */,
+				C9AF5DAC25A92F5C001F71E4 /* LeetcodeQuestions.swift */,
+				C9AF5DAE25AB3952001F71E4 /* CopiedCode.swift */,
 			);
 			path = SolvedHackerankQuestions;
 			sourceTree = "<group>";
@@ -136,6 +145,9 @@
 			files = (
 				C906B80A2475FD44003817A8 /* Anonymous.swift in Sources */,
 				C906B80C247978D0003817A8 /* GetterAndSetter.swift in Sources */,
+				C9AF5DAF25AB3952001F71E4 /* CopiedCode.swift in Sources */,
+				C9AF5DAD25A92F5C001F71E4 /* LeetcodeQuestions.swift in Sources */,
+				C9AF5DAB25A91EEF001F71E4 /* RawTest.swift in Sources */,
 				C98FFB7F249E1B1200B1BC56 /* PractisedQuestions.swift in Sources */,
 				C906B8012472F146003817A8 /* main.swift in Sources */,
 				C906B8082472F19C003817A8 /* StairCaseAlgorithm.swift in Sources */,

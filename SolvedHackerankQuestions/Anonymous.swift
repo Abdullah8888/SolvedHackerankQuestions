@@ -270,7 +270,7 @@ func st(_ str: String) -> String {
         return st(ss)
     }
     
-    print("the elemeent is \(String(firstLetter!))")
+    print("the element is \(String(firstLetter!))")
     theElement = String(firstLetter!)
     print("dddd is \(theElement)")
     return theElement

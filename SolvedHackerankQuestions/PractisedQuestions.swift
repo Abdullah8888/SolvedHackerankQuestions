@@ -634,6 +634,9 @@ func arrayToDict(){
     var dd = Dictionary<String, String>()
     var df = [String : Int]()
     var ff = Set<String>()
+    var dict: [Int : Int] = [:]
+    dict[0] = 9
+    
     //let scoreboard = names.reduce(into: [:]) { $0[$1] = 1 }
     let dictNames = names.reduce(into: [String: Int]()) { (curr, next) in
         curr[next, default: 0] += 1

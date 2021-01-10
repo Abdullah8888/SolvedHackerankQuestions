@@ -98,4 +98,77 @@ print("Hello, World!")
 //suquareArray(totalArea: 12)
 
 //convertToBinary(529)
-binaryGap()
+//binaryGap()
+
+//let number: String? = "01230"
+//let result = number.flatMap{Int($0)}
+//
+//print(result)
+
+//var a1 : Set<String> = ["h", "o", "t"]
+//var a2 : Set<String> = ["d", "o", "g"]
+//var a3 : Set<String> = []
+//var ttt = ["aa" , "bb", "cc"]
+//let dd = a2.intersection(a1)
+//print(dd)
+//let dff = a1.symmetricDifference(a2)
+//print(dff)
+//
+//print(ttt)
+//let fgt = ttt.reversed()
+//
+//tol: for (index, el) in fgt.enumerated() {
+//    print(el)
+//
+//    if index == ttt.endIndex - 1 {
+//        continue tol
+//    }
+//}
+
+//let rr = "abca"
+//let rre = rr.reduce(into: Set<String>()) { (curr, next) in
+//    curr.insert(String(next))
+//}
+//let rre1 = rr.reduce(into: Set<String>()) { (curr, next) in
+//    curr.insert(String(next))
+//}
+////let rre1 = rr.reduce(into: Set<String>(), { $0. })
+//print(rre)
+//print(rre1)
+//let dfg = rre1
+//if rre == rre1 {
+//    print("yes")
+//    print(dfg)
+//}
+//_ = rr.map{a3.insert($0.description)}
+//print(a3)
+
+//func ladderLength(_ beginWord: String, _ endWord: String, _ wordList: [String]) -> Int {
+//    var countShortestTransform = 0
+//    var wordListOfSet: [Set<String>] = []
+//    if wordList.contains(endWord) {
+//        for word in wordList {
+//             let dd = word.reduce(into: Set<String>()) { (wordSet, element) in
+//                    wordSet.insert(element.description)
+//
+//            }
+//            wordListOfSet.append(dd)
+//        }
+//        print(wordListOfSet)
+//    }
+//   // print(<#T##items: Any...##Any#>)
+//    return countShortestTransform
+//
+//}
+//let gt = ladderLength("hit", "cog", ["hot","dot","dog","lot","log","cog"])
+//print(gt)
+
+
+//var a1 : Set<String> = ["p", "w", "w", "k", "e", "w"]
+//var a2 : Set<String> = ["p", "w", "k", "e"]
+//var cc = 1
+//let index = a2.symmetricDifference(a1)
+//print(index)
+//let sd = "sdsf"
+
+
