@@ -19,6 +19,7 @@ func takesIn () {
             let numbers = (readLine()?.trimmingCharacters(in: .whitespacesAndNewlines))
             //let ss = String(numbers).split(separator: "")
             let digits = numbers?.compactMap {$0.wholeNumberValue}
+            
             let result  = sumArraysNumbers(array: digits!)
             print(result)
         }
@@ -472,6 +473,7 @@ func anonymous()   {
 
         var sortedArray = arr.sorted()
         var dbf = sortedArray[(sortedArray.count-4)...sortedArray.count-1];
+        
 
         var total: Int = 0
         for i in dbf {

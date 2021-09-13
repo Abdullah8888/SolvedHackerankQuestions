@@ -21,7 +21,8 @@ func rawTestHere () {
     let resultt = array1.reduce(0) { ini, elem in
         ini + elem
     }
-    print(resultt)
+    let resulttr = array1.reduce(0){$0+$1}
+    print(resulttr)
     let resulttt = array1.reduce(0) { ini, elem in
         ini + elem
     }
@@ -58,6 +59,7 @@ func rawTest2() {
 
 func rawTest3 () {
     var a1 : Set<String> = ["f", "o", "o", "l"]
+    var a11 : Set<Int> = [1,3,4,4]
     var a2 : Set<String> = ["c", "o", "o", "l"]
     var a3 : Set<String> = []
     let dd = a2.intersection(a1)
@@ -73,4 +75,7 @@ func rawTest3 () {
     print(rre)
     _ = rr.map{a3.insert($0.description)}
     print(a3)
+    let ddd = a11.reduce(0) { initial, next in
+        initial + next
+    }
 }

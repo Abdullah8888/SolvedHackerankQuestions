@@ -20,7 +20,9 @@ func checkMe(_ word: String) -> String {
 
 func addAll(_ numbers: [Int]) -> Int {
     let sum = numbers.reduce(0) { (x, y) -> Int in
-        x + y
+        print("x is \(x)")
+        print("y is \(y)")
+        return x + y
     }
     
     return sum
@@ -87,13 +89,19 @@ func chageLast3ToUpperCase() {
     
     
     //dd
-//    let last3 = word.suffix(3)
-//
-//    //word.removeLast(3)
-//    word.insert(ddg, at: word.index(after: ff))
-//
-//    //print(dd)
-//    print(word +  last3.uppercased())
+    let last33 = word.suffix(3)
+    let df = word.index(word.startIndex, offsetBy: word.count - 3)
+    let dfg = word.index(after: df)
+    let dfr = word.remove(at: dfg)
+    let fg = word[..<df]
+    print(fg)
+
+    //word.removeLast(3)
+    //word.insert(ddg, at: word.index(after: ff))
+
+    //print(dd)
+    print(fg +  last33.uppercased())
+    
 }
 
 func checkFirst4Ifis7() {
@@ -636,6 +644,8 @@ func arrayToDict(){
     var ff = Set<String>()
     var dict: [Int : Int] = [:]
     dict[0] = 9
+    let dd3 = Array(dd.keys)
+    
     
     //let scoreboard = names.reduce(into: [:]) { $0[$1] = 1 }
     let dictNames = names.reduce(into: [String: Int]()) { (curr, next) in
@@ -645,6 +655,7 @@ func arrayToDict(){
     let dictNote = note.reduce(into: [String: Int]()) { (curr, next) in
         curr[next, default: 0] += 1
     }
+    //let dfdfdf = names.reduce(into: Set<String>()) { $1.insert($1, at: $1.startIndex)}
 
     for (key , _) in dictNote {
         var dd = dictNames[key]
@@ -849,6 +860,7 @@ func binaryGap() {
             
         }
         let max = countZeros.max()
+        
         guard let total = max else { return }
         print(total)
     }

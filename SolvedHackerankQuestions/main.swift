@@ -89,10 +89,14 @@ print("Hello, World!")
 //let result2 = binarySearch(array: [13, 21, 54, 81, 90], target: 21)
 //print(result2)
 
+//let isPalindrome = palindrome(stringInput: "live")
+//print(isPalindrome)
+
 //let result2 = jumpSearch(array: [0, 1, 1, 2, 3, 5, 8, 13, 21, 55, 77, 89, 101, 201, 256, 780], target: 21)
 //print(result2)
 
 //_ = addAll3([3,4,5])
+//_ = addAll([3,4,5])
 
 //tippleAndDoubleNumber(num1: "451999277", num2: "41177722899")
 //suquareArray(totalArea: 12)
@@ -171,4 +175,141 @@ print("Hello, World!")
 //print(index)
 //let sd = "sdsf"
 
+//putMe(true, ())
+//putMe2(true, {_,_ in "sdsd"})
 
+//dispatchTest()
+
+//dictStuff()
+
+//testStructAndClass()
+
+//let pairsDivisibleby60Counter = numPairsDivisibleBy60([30,20,150,100,40])
+//print(pairsDivisibleby60Counter)
+
+//rawTest3()
+//
+//print(Int("a") as Any)
+//
+//if let ser = Int("0") {
+//    print(ser)
+//}
+//
+//var arrayTest = [3,5,6,4,3,6,3,3,3,34,3,54,4,3]
+//var countTest:  [String] = []
+//for (index, el) in arrayTest.enumerated() {
+//    let nextIndex = index + 1
+//    if nextIndex < arrayTest.count {
+//        if arrayTest[index] == arrayTest[nextIndex] {
+//            countTest.append("\(index+1) pair")
+//            print("\(index) and \(nextIndex)")
+//        }
+//    }
+//}
+//print("counnt is \(countTest)")
+//
+let namesY = ["Harry", "Ron", "Hermione", "kon"]
+var dfC = 0
+//let dictNoteY = namesY.reduce(into: [String: Int]()) { (curr, next) in
+//    dfC+=1
+//    curr[next, default: 0] += dfC
+//}
+let scoreboard = namesY.reduce(into: [:]) { $0[$1] = 1 }
+
+print(scoreboard)
+
+let dictReduced = namesY.reduce(into: [Int : String]()) {(curr, next) in
+    //dfC+=1
+    var sd = curr[1, default: next]
+}
+
+print(dictReduced)
+
+
+
+//var sd = [[9,9,4],[6,6,8],[2,1,1]]
+//var ddf = sd.flatMap { $0}
+////print(ddf.sorted())
+//var s = [0]
+//var s2 = [1]
+////var st = s.removeAll {$0 == 0 }
+//let index = s.index(s.startIndex, offsetBy: 1)
+//var firstPart = Array(s[..<index])
+//var secondPart = Array(s[index...])
+////var ddd = Array(firstPart
+//for index in 0..<1 {
+//    if secondPart.isEmpty {
+//        secondPart.append(s2[index])
+//    }
+//    else {
+//        secondPart[index] = s2[index]
+//    }
+//
+//}
+//print(firstPart)
+//print(secondPart)
+
+
+//let dd = almostIncreasingSequence(sequence:[1, 2, 3, 4, 3, 6])
+//print(dd)
+
+//func matrixElementsSum(matrix: [[Int]]) -> Int {
+//    var df = matrix.flatMap{$0}
+//    print(df)
+//    let ss = df.filter{ $0 != 0}
+//    print(ss)
+//    return 1
+//}
+//
+//let matrix = [[1, 1, 1, 0],
+//              [0, 5, 0, 1],
+//              [2, 1, 3, 10]]
+//_ = matrixElementsSum(matrix: matrix)
+//
+//
+//var a11 : Set<String> = ["a","cd", "ss"]
+//let ass = a11.reduce(into: Array()) { curr, next in
+//    curr.append(next)
+//}
+//print(ass)
+
+//let aaw = [[1,2,3],[8,4,5]]
+//let dd5 = aaw.reduce([]){ $0 + $1}
+//print(aaw.flatMap{$0})
+//print(dd5)
+//print(Array(aaw.joined()))
+//print(aaw.map{$0})
+//class AS {
+//    var d = 4, y = 7
+//}
+//print("sadfasdf")
+//func inc(b: Int) -> () -> Int {
+//    var a = 0
+//
+//    func ss() -> Int {
+//        a+=b
+//        return a
+//    }
+//    return ss
+//}
+//
+//let incTen = inc(b: 10)
+//print(incTen())
+//print(incTen())
+//let incTen1 = inc(b: 5)
+//print(incTen1())
+//print(incTen1())
+
+//let ddq = returnUnPairElement(array:[9, 3, 4, 3, 9, 5, 9, 5,5,4, 9])
+//print(ddq)
+
+//let res = returnXvalueIfpointAreSymmetric(dict: [1:1, 2:5, 4:5, 5:1, 3:0])
+//print(res)
+
+let yy = isAdmissibleOverpayment(prices: [110, 95, 70], notes:
+["10.0% higher than in-store",
+ "5.0% lower than in-store",
+ "Same as in-store"], x: 5)
+ print(yy)
+let sd = "10.0% higher than in-store"
+print(sd.split(separator: "%"))
