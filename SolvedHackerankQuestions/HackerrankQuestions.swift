@@ -31,3 +31,13 @@ func compareTriplets(a: [Int], b: [Int]) -> [Int] {
     return result
 
 }
+
+func fibonacci (n: Int) -> Int {
+    // Write your code here.
+    switch n {
+        case 0,1:
+        return n
+        default:
+        return fibonacci(n: n - 1) + fibonacci(n: n - 2)
+    }
+}

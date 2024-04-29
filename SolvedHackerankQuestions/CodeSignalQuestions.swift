@@ -7,16 +7,6 @@
 //
 
 import Foundation
-/*
- Given an array of integers, find the pair of adjacent elements that has the largest product and return that product.
- Example
- For inputArray = [3, 6, -2, -5, 7, 3], the output should be
- adjacentElementsProduct(inputArray) = 21
- */
-func adjacentElementsProduct(inputArray: [Int]) -> Int {
-    //let ss = inputArray.slice
-    return 1
-}
 
 //Palindrome
 func palindrome(stringInput: String) -> Bool {
@@ -206,4 +196,56 @@ func isAdmissibleOverpayment(prices: [Double], notes: [String], x: Double) -> Bo
     }
     print(overPaying)
     return overPaying <= x ? true : false
+}
+
+/*Given a string s consisting of small English letters, find and return the first instance of a non-repeating character in it. If there is no such character, return '_'.
+ 
+ Example
+
+ For s = "abacabad", the output should be
+ firstNotRepeatingCharacter(s) = 'c'.
+
+ There are 2 non-repeating characters in the string: 'c' and 'd'. Return c since it appears in the string first.
+
+ For s = "abacabaabacaba", the output should be
+ firstNotRepeatingCharacter(s) = '_'.
+
+ There are no characters in this string that do not repeat.
+
+ Input/Output
+
+ [execution time limit] 6 seconds (swift)
+
+ [input] string s
+
+ A string that contains only lowercase English letters.
+
+ Guaranteed constraints:
+ 1 ≤ s.length ≤ 105.
+
+ [output] char
+
+ The first non-repeating character in s, or '_' if there are no characters that do not repeat.**/
+func firstNotRepeatingCharacter(s: String) -> Character {
+    var myString = s
+    let total = myString.count
+    var count = 0
+        while count < total {
+            if myString.count == 1 {
+                return myString.first!
+            }
+            else {
+                let char = myString.prefix(1)
+                let filteredEl = myString.filter{String($0) == String(char)}
+                if filteredEl.count == 1 {
+                    return filteredEl.first!
+                }
+                else {
+                    //remove same chars from the main string
+                    myString = myString.filter{String($0) != String(char)}
+                }
+            }
+            count = count + 1
+        }
+    return "_"
 }

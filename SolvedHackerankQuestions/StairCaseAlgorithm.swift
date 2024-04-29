@@ -12,6 +12,8 @@ class StairCaseAlgorithm {
     
     func formStairCase(n: Int)  {
         var stairecase = ""
+        var arr = Array(repeating: 2, count: 4)
+        arr.last
         var space  = String(repeating: " ", count: n )
             for _ in 1...n {
                 stairecase = stairecase  + "#"
